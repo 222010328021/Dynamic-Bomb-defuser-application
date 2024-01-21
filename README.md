@@ -26,7 +26,8 @@ This is a simple web application that simulates a countdown timer for defusing a
 4. If defusal code is entered before timer drops to 0 then a message of "You did it!" is displayed or else displays "BOOM"
 
 **Preview**
-![Time Bomb Defuser App](https://dynbombblast.ccbp.tech/)
+[![Time Bomb Defuser App](link_to_image)](https://dynbombblast.ccbp.tech/)
+
 
 **Output**
 </br>
